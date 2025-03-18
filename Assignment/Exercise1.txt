@@ -1,0 +1,89 @@
+Vote Eligibility
+- Get age from 0 to 100
+- If age is greater than 18, then you are eligible
+- else you are not eligible.
+
+
+Tip Computation
+- Get the total amount from the customer
+- Ask customer for the desired tip
+- If tip confirmed, calculate the percentage tip by dividing by 100
+- Else there is no percentage tip from the customer
+
+Lawaway
+- Get the total price from Seller
+- get the number of months from Seller
+- Get the price per month by dividing the total price by the number of months
+- Price per month
+
+
+
+Exercice 2
+Calculate Seconds
+- Get the number of hours given
+- Get the number of minutes given
+- Convert the hours to minutes
+- Add the converted hours to minutes to the minutes from step two to get the total minutes
+- Multiply the total minutes by 60 to get the seconds
+
+
+Count vowels
+- Get the sentence
+- Define the vowels(a,e,i,o,u)
+- If the sentence contains any of the defined vowels, count + 1
+- Write the total number of the difined vowels in the sentence
+
+
+Find the Largest Number
+ - Get the list of numbers
+ - write down the numbers in ascending order
+ - Display the last number in the list
+
+
+Exercise3
+Palidrome
+- Get the word
+- Read the word as it is
+- Write the word in its reversed form beginning from the last letter to he fist letter
+- Try to read the word
+- If the word is the same like the original word from step one, the it is palidrome
+- Else the word is not palidrome
+
+Sort a list
+- Get the List 
+- Ditermine the smallest number and biggest number from the list
+- Rearrange the list by writing down the smallest numbers to the bigger numbers
+
+
+Exercise 5
+Prime Number
+- Define any integer of your choice
+- Divide the number by 1 ad itself
+- If it is divisible, It is a prime number 
+- Else it is not a prime number, Repeat step 1,2 and 3 again
+
+Pangram
+- Write down the letters of the Alphabet
+- Write down any sentence of your choice 
+- Read through your sentence and shade off any letter from step 1 above
+- If all letter from step one are shaded in the sentence, then the sentence is Pangram
+- Else repeat step 1, 2 and 3 again
+
+Anagram
+- Get two word of your choice
+- Check if the first word and the second word have the same letters by shading the similar letters you can find.
+- If all letters from the first word are been shaded from the second word and no letter is left, then, the words are Anagrams 
+- Else Repeat step 1 and 2 above
+
+Compress a String
+-  Write down a string of repeated characters
+- Begin with the first character and count the number of times it repeats itself
+- Write the character you counted and beside it, write the number of time it repeated
+- Repeat step 2 and 3 until you are done with the string
+
+
+Happy Number
+- Determine a number of your choice
+- Sum up the square of each digit of the number
+- If the answer from step 2 gives one, then the number is a happy number 
+- Else sum up the square of the answer from step 2
